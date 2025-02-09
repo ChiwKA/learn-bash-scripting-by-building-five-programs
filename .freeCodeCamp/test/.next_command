@@ -36,3 +36,5 @@ bash questionnaire.sh
 which bash
 which shebang
 ./questionnaire.sh
+ls --color=auto =l
+ls --color=auto -l
