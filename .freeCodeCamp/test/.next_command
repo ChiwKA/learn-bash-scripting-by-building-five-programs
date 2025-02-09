@@ -152,3 +152,4 @@ echo LANG
 echo $LANG
 help declare
 declare -p
+echo $RANDOM
