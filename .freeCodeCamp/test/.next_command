@@ -54,3 +54,5 @@ man echo
 __vsc_prompt_cmd_original
 echo -e \n~~ Questionnaire ~~\n
 echo -e \n~~ Questionnaire ~~\n
+__vsc_prompt_cmd_original
+./questionnaire.sh
