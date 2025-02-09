@@ -126,3 +126,4 @@ help test
 ls --color=auto -l
 [[ -x countdown.sh ]]
 help [[
+[[ -x countdown.sh && 5 -le 4 ]]
