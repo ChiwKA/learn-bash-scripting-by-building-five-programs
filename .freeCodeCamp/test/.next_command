@@ -69,3 +69,5 @@ man if
 help if
 ./countdown.sh arg1
 ./countdown.sh 123
+./countdown.sh arg1
+./countdown.sh 3
