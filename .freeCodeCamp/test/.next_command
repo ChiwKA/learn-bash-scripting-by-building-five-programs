@@ -153,3 +153,5 @@ echo $LANG
 help declare
 declare -p
 echo $RANDOM
+./bingo.sh
+./bingo.sh
