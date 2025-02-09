@@ -147,3 +147,4 @@ echo $?
 touch bingo.sh
 chmod +x bingo.sh
 ./bingo.sh
+printenv
