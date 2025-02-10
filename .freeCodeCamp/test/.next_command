@@ -293,3 +293,6 @@ type echo
 type read
 type if
 type then
+type sleep
+type help
+type bash
