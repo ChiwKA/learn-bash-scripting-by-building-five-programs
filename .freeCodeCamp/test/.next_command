@@ -253,3 +253,7 @@ ARR=("a" "b" "c")
 echo ${ARR[1]}
 echo $@
 echo ${ARR[*]}
+declare -p
+declare -p $ARR
+declare -p ${ARR}
+declare -p ARR
