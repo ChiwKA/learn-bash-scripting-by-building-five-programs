@@ -296,3 +296,4 @@ type then
 type sleep
 type help
 type bash
+type psql
