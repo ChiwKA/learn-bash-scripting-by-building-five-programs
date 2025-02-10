@@ -297,3 +297,4 @@ type sleep
 type help
 type bash
 type psql
+type ./five.sh
