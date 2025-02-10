@@ -286,3 +286,4 @@ chmod +x five.sh
 ./five
 ./five.sh
 clear
+./five.sh
